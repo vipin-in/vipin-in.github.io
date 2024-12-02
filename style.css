@@ -11,6 +11,7 @@
     margin: auto;
     margin-top: 80px;
 }
+
 @import url(https://themes.googleusercontent.com/fonts/css?kit=iMc4-4exjgqA-toZgqqJBbSiqzQukToBW0gJCuGOWPj9-YwI2Pt9ZUilmW_RWu-z);
 ul.lst-kix_7pth4wl0i5ta-7 {
 list-style-type: none;
@@ -587,7 +588,7 @@ border-left-width: 0pt;
 border-top-style: solid;
 border-left-style: solid;
 border-bottom-width: 0pt;
-width: 128.7pt;
+width: 190pt;
 border-top-color: #999999;
 border-bottom-style: solid;
 }
@@ -604,7 +605,7 @@ border-left-width: 0pt;
 border-top-style: solid;
 border-left-style: solid;
 border-bottom-width: 0pt;
-width: 195.3pt;
+width: 190pt;
 border-top-color: #000000;
 border-bottom-style: solid;
 }
@@ -621,7 +622,7 @@ border-left-width: 0pt;
 border-top-style: solid;
 border-left-style: solid;
 border-bottom-width: 0pt;
-width: 195.3pt;
+width: 190pt;
 border-top-color: #999999;
 border-bottom-style: solid;
 }
@@ -638,7 +639,7 @@ border-left-width: 0pt;
 border-top-style: solid;
 border-left-style: solid;
 border-bottom-width: 0pt;
-width: 162pt;
+width: 190pt;
 border-top-color: #000000;
 border-bottom-style: solid;
 }
@@ -672,7 +673,7 @@ border-left-width: 0pt;
 border-top-style: solid;
 border-left-style: solid;
 border-bottom-width: 0pt;
-width: 162pt;
+width: 190pt;
 border-top-color: #999999;
 border-bottom-style: solid;
 }
@@ -723,7 +724,7 @@ border-left-width: 0pt;
 border-top-style: solid;
 border-left-style: solid;
 border-bottom-width: 0pt;
-width: 128.7pt;
+width: 190pt;
 border-top-color: #000000;
 border-bottom-style: solid;
 }
@@ -1144,7 +1145,7 @@ font-size: 4pt;
 font-family: "Open Sans";
 }
 .c15 {
-font-size: 16pt;
+font-size: 20pt;
 font-family: "Open Sans";
 font-weight: 700;
 }
@@ -1248,7 +1249,7 @@ text-align: left;
 padding-top: 0pt;
 color: #666666;
 font-size: 15pt;
-padding-bottom: 16pt;
+/* padding-bottom: 16pt; */
 font-family: "Arial";
 line-height: 1.15;
 page-break-after: avoid;
@@ -1339,4 +1340,19 @@ font-style: italic;
 orphans: 2;
 widows: 2;
 text-align: left;
+}
+.bold {
+    font-weight: bold;
+}
+.normal-font{
+    font-size: 1rem;
+}
+li.li-bullet-0.c9{
+    margin-bottom: 6px;
+}
+li.li-bullet-0 span.c1 {
+    margin-left: -5px;
+}
+.statement{
+    margin-bottom: 0px;
 }
