@@ -930,10 +930,9 @@ font-style: normal;
 }
 .c76 {
 color: #666666;
-font-weight: 400;
+font-weight: 700;
 text-decoration: none;
 vertical-align: baseline;
-font-size: 15pt;
 font-family: "Open Sans";
 font-style: normal;
 }
@@ -1145,13 +1144,13 @@ font-size: 4pt;
 font-family: "Open Sans";
 }
 .c15 {
-font-size: 20pt;
+font-size: 22pt;
 font-family: "Open Sans";
 font-weight: 700;
 }
 .c73 {
-font-weight: 600;
-font-size: 26pt;
+font-weight: 700;
+font-size: 30pt;
 font-family: "Open Sans";
 }
 .c50 {
@@ -1161,7 +1160,7 @@ font-family: "Open Sans";
 }
 .c47 {
 font-weight: 700;
-font-size: 1.2rem;
+font-size: 1.4rem;
 font-family: "Open Sans";
 }
 .c46 {
@@ -1348,11 +1347,14 @@ text-align: left;
     font-size: 1rem;
 }
 li.li-bullet-0.c9{
-    margin-bottom: 6px;
+    margin-bottom: 8px;
 }
 li.li-bullet-0 span.c1 {
     margin-left: -5px;
 }
-.statement{
-    margin-bottom: 0px;
+ul.projects li span.c1{
+    margin-left: 2px;
+}
+ul.responsibilities li span.c1{
+    margin-left: -5px;
 }
