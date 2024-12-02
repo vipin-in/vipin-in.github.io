@@ -325,12 +325,6 @@ content: "" counter(lst-ctn-kix_38ufnw9x222y-4, lower-latin) ". ";
 .lst-kix_38ufnw9x222y-5 > li:before {
 content: "" counter(lst-ctn-kix_38ufnw9x222y-5, lower-roman) ". ";
 }
-li.li-bullet-0:before {
-margin-left: -18pt;
-white-space: nowrap;
-display: inline-block;
-min-width: 18pt;
-}
 ul.lst-kix_l4rohbhg8v5f-2 {
 list-style-type: none;
 }
@@ -1346,6 +1340,12 @@ text-align: left;
 .normal-font{
     font-size: 1rem;
 }
+li.li-bullet-0:before {
+    margin-left: -20pt;
+    white-space: nowrap;
+    display: inline-block;
+    min-width: 18pt;
+    }
 li.li-bullet-0.c9{
     margin-bottom: 8px;
 }
@@ -1355,6 +1355,9 @@ li.li-bullet-0 span.c1 {
 ul.projects li span.c1{
     margin-left: 2px;
 }
+ul.projects li.li-bullet-0:before {
+    margin-left: -24pt;
+}
 ul.responsibilities li span.c1{
-    margin-left: -5px;
+    margin-left: -2px;
 }
