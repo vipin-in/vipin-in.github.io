@@ -1367,3 +1367,9 @@ ul.responsibilities li span.c1{
 .pl-25{
     padding-left: 25px;
 }
+
+a.yog { unicode-bidi:bidi-override; direction:rtl }
+a.yog.vidhyutPatra:after { content:"nipiv.repoleved" }
+a.yog.vidhyutPatra:before { content:"moc.liamg" }
+a.yog.durbhash:after { content:"0-189-19+" }
+a.yog.durbhash:before { content:"5151-" }
